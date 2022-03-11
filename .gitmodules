@@ -1,0 +1,7 @@
+[submodule "Libraries/kicad-m2ngff"]
+	path = Libraries/kicad-m2ngff
+	url = https://github.com/realteck-ky/kicad-m2ngff.git
+[submodule "Libraries/marbastlib"]
+	path = Libraries/marbastlib
+	url = https://github.com/ebastler/marbastlib.git
+	branch = untested
