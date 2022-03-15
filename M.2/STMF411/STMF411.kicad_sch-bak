@@ -3095,7 +3095,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 191.135 31.115 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 71297b9a-b803-43f6-a73f-5f06d119bc8a)
     (property "Reference" "H1" (id 0) (at 194.31 28.5749 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -3103,7 +3103,7 @@
     (property "Value" "MountingHole_Pad" (id 1) (at 194.31 31.1149 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_Pad_Via" (id 2) (at 193.675 36.195 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" (id 2) (at 191.135 31.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 191.135 31.115 0)
@@ -3744,7 +3744,7 @@
       (reference "C15") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
     (path "/71297b9a-b803-43f6-a73f-5f06d119bc8a"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via")
+      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad")
     )
     (path "/09ab82c3-34e9-44f6-bcc6-a88b0ac9235b"
       (reference "M1") (unit 1) (value "M.2_Key_E") (footprint "m2ngff:m2-padKeyE")
