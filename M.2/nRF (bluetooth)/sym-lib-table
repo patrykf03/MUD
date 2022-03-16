@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "m2ngff")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/kicad-m2ngff/m2ngff.kicad_sym")(options "")(descr ""))
+  (lib (name "moko")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/moko/moko.kicad_sym")(options "")(descr ""))
+  (lib (name "TI")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/charger/BQ24232HARGTT.kicad_sym")(options "")(descr ""))
 )

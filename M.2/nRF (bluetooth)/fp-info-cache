@@ -1,4 +1,4 @@
-20052818100361436
+20056113470650698
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85301,6 +85301,13 @@ varistor SIOV
 0
 2
 2
+charger
+QFN50P300X300X100-17N-D
+RGT
+Integrated Circuit
+0
+17
+17
 m2ngff
 m2-outer2230
 
@@ -85357,3 +85364,10 @@ m2-padKeyM
 0
 67
 67
+moko
+MK08
+
+
+0
+60
+57
