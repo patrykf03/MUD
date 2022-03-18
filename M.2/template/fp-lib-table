@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "m2ngff")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/kicad-m2ngff/m2ngff.pretty")(options "")(descr ""))
-)
