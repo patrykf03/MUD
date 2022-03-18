@@ -8,6 +8,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 *~
+
 _autosave-*
 *.tmp
 *-save.pro
@@ -21,6 +22,11 @@ fp-info-cache
 *.dsn
 *.ses
 
+# kicad backups
+/M.2/STMF411/STMF411-backups/*
+/M.2/nRF\(bluetooth)/nRF-backups/*
 # Exported BOM files
 *.xml
 *.csv
+
+
