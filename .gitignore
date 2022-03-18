@@ -7,6 +7,8 @@
 *.bck
 *.kicad_pcb-bak
 *.sch-bak
+*.kicad-sch-bak
+
 *~
 
 _autosave-*
@@ -24,9 +26,9 @@ fp-info-cache
 
 # kicad backups
 /M.2/STMF411/STMF411-backups/*
-/M.2/nRF\ \(bluetooth\)/nRF-backups/
-# Exported BOM files
-*.xml
-*.csv
+/M.2/nRF\ \(bluetooth\)/nRF-backups/*
+
+# Shenzen cache
+/Libraries/pcbart/.svg2shenzhen-cache/*
 
 
