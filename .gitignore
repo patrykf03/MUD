@@ -27,6 +27,7 @@ fp-info-cache
 # kicad backups
 /M.2/STMF411/STMF411-backups/*
 /M.2/nRF\ \(bluetooth\)/nRF-backups/*
+/Daughterboards/Full/Full-backups/
 
 # Shenzen cache
 /Libraries/pcbart/.svg2shenzhen-cache/*
