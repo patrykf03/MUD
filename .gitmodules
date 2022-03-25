@@ -8,3 +8,6 @@
 [submodule "Libraries/moko"]
 	path = Libraries/moko
 	url = https://github.com/patrykf03/moko
+[submodule "keyboards/ISS"]
+	path = keyboards/ISS
+	url = git@github.com:patrykf03/ISS.git
