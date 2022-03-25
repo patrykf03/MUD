@@ -1,13 +1,17 @@
 [submodule "Libraries/kicad-m2ngff"]
 	path = Libraries/kicad-m2ngff
 	url = https://github.com/patrykf03/kicad-m2ngff
+	update = merge
 [submodule "Libraries/marbastlib"]
 	path = Libraries/marbastlib
 	url = https://github.com/ebastler/marbastlib
 	branch = untested
+	update = merge
 [submodule "Libraries/moko"]
 	path = Libraries/moko
 	url = https://github.com/patrykf03/moko
+	update = merge
 [submodule "keyboards/ISS"]
 	path = keyboards/ISS
 	url = git@github.com:patrykf03/ISS.git
+	update = merge
