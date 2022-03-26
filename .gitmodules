@@ -15,3 +15,6 @@
 	path = keyboards/ISS
 	url = git@github.com:patrykf03/ISS.git
 	update = merge
+[submodule "Libraries/SSD1306"]
+	path = Libraries/SSD1306
+	url = https://github.com/pforrmi/KiCad-SSD1306-128x64.git

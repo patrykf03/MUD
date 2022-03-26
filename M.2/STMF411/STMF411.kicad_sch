@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "StmF411 Module")
+    (date "2022-03-26")
+    (rev "1")
+    (company "Taptap")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.254 1.778 0)
@@ -3262,7 +3269,7 @@
     (uuid 7cf0f891-8a1a-40d2-a263-a0d273d44d57)
     (property "Reference" "SW1" (id 0) (at 40.005 110.49 0))
     (property "Value" "RESET" (id 1) (at 40.005 113.03 0))
-    (property "Footprint" "" (id 2) (at 49.53 112.395 0)
+    (property "Footprint" "LogoSmall:LogoSmall_Cu" (id 2) (at 49.53 112.395 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 49.53 112.395 0)

@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "nRF Module")
+    (date "2022-03-26")
+    (rev "1")
+    (company "TapTap")
+  )
+
   (lib_symbols
     (symbol "Device:C_Small" (pin_numbers hide) (pin_names (offset 0.254) hide) (in_bom yes) (on_board yes)
       (property "Reference" "C" (id 0) (at 0.254 1.778 0)
@@ -3044,7 +3051,7 @@
     (uuid 575bb6cd-262c-4b83-a5e2-f6e46a426eee)
     (property "Reference" "SW101" (id 0) (at 158.115 95.25 0))
     (property "Value" "RESET" (id 1) (at 158.115 97.79 0))
-    (property "Footprint" "" (id 2) (at 158.115 102.235 0)
+    (property "Footprint" "LogoSmall:LogoSmall_Cu" (id 2) (at 158.115 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 158.115 102.235 0)
@@ -3407,18 +3414,18 @@
 
   (symbol (lib_id "Power:GND") (at 192.405 26.67 0) (unit 1)
     (in_bom yes) (on_board yes)
-    (uuid b4afdd30-7a78-4cd8-8670-bb6dd787dcdc)
+    (uuid b4afdd30-7a78-4cd8-8670-bb6dd787dcdd)
     (property "Reference" "#PWR0107" (id 0) (at 192.405 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (id 1) (at 192.532 31.0642 0))
+    (property "Value" "" (id 1) (at 192.532 31.0642 0))
     (property "Footprint" "" (id 2) (at 192.405 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 192.405 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f46fb303-7470-41c0-b6e8-4553c1d6503f))
+    (pin "1" (uuid f46fb303-7470-41c0-b6e8-4553c1d65040))
   )
 
   (symbol (lib_id "Device:R_Small") (at 143.51 65.405 270) (unit 1)
@@ -3787,7 +3794,7 @@
     (path "/a054f6c1-434b-4502-9a21-349d00910154"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
-    (path "/b4afdd30-7a78-4cd8-8670-bb6dd787dcdc"
+    (path "/b4afdd30-7a78-4cd8-8670-bb6dd787dcdd"
       (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
     )
     (path "/91fb8a9d-0277-42ce-9d07-eeec3d6ded5e"
