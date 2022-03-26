@@ -18,3 +18,9 @@
 [submodule "Libraries/SSD1306"]
 	path = Libraries/SSD1306
 	url = https://github.com/pforrmi/KiCad-SSD1306-128x64.git
+	update = merge
+[submodule "Libraries/hybrid"]
+	path = Libraries/hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+	update = merge
+
