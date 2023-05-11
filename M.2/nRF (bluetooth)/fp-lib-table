@@ -3,4 +3,5 @@
   (lib (name "moko")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/moko/moko.pretty")(options "KiCad")(descr ""))
   (lib (name "charger")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/charger")(options "")(descr ""))
   (lib (name "LogoSmall")(type "KiCad")(uri "${KIPRJMOD}/../../Libraries/pcbart")(options "")(descr ""))
+  (lib (name "silk")(type "KiCad")(uri "${KIPRJMOD}/silk")(options "")(descr ""))
 )

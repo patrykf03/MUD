@@ -32,5 +32,6 @@ fp-info-cache
 
 # Shenzen cache
 /Libraries/pcbart/.svg2shenzhen-cache/*
-
+M.2/STMF411/silk/.svg2shenzhen-cache/*
+M.2/nRF\ (bluetooth)/silk/.svg2shenzhen-cache/*
 
