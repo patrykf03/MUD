@@ -1,5 +1,9 @@
 # The MUD Project
 
+## Warning
+**The entire project is untested, use at your own risk and look over whether its not broken beforehand.**
+
+<br/>
 The Multiple Universal Daughterboard project is a series of pcb's I've designed to have replaceable modules with microcontrollers.
 
 There are 2 modules based on STM32F411 and nRF microcontrollers.
